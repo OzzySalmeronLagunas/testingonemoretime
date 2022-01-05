@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  LastImport="2022-01-05T02:42:13.6795158-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/testing.docx"
+      AbsoluteSource="file:///C:/Users/osalmeronlagunas/Desktop/testing.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/EquityAvail Guidelines Product.htm"
+      TimeStamp="1/5/2022 2:40:42 AM" />
+    <Url
+      Source="../TOCs/testing.fltoc"
+      TimeStamp="1/5/2022 2:40:42 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/testing.css"
+      TimeStamp="1/5/2022 2:40:42 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.Hyperlink"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles />
+</MsWordImport>
